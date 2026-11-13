@@ -32,14 +32,6 @@ ISTQB® Certified Quality Assurance professional with 3+ years of experience spe
 
 ---
 
-### GitHub Activity
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mcahya20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Cahya's GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcahya20&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### Get in Touch
 - **LinkedIn:** [linkedin.com/in/muhammadcahya20](https://www.linkedin.com/in/muhammadcahya20/)
 - **Email:** [muhammadcahya32@gmail.com](mailto:muhammadcahya32@gmail.com)
